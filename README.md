@@ -2,5 +2,5 @@
 
 
 
-# Intro to Power BI
- Workshop files for Intro to Power BI
+# Power BI 2.0
+ Workshop files for Power BI 2.0
